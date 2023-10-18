@@ -6,41 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="40bb9df0-ad19-4a45-a048-07d19ef8f045" name="Changes" comment="init commit">
       <changelist_data name="PedroWC" email="" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/de_vandermeer_asciitable.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/corteDaTora.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/ST4-4.0.8-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/ST4-4.0.8-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/ST4-4.0.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/antlr-runtime-3.5.2-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/antlr-runtime-3.5.2-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/antlr-runtime-3.5.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/antlr4-4.5.1-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/antlr4-4.5.1-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/antlr4-4.5.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/ascii-utf-themes-0.0.1-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/ascii-utf-themes-0.0.1-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/ascii-utf-themes-0.0.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/asciitable-0.3.2-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/asciitable-0.3.2-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/asciitable-0.3.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/char-translation-0.0.2-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/char-translation-0.0.2-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/char-translation-0.0.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/commons-lang3-3.4-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/commons-lang3-3.4-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/commons-lang3-3.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/skb-interfaces-0.0.1-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/skb-interfaces-0.0.1-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/skb-interfaces-0.0.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/slf4j-api-1.7.12-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/slf4j-api-1.7.12-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/slf4j-api-1.7.12.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CorteDaTora.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,29 +42,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Downloaded.Files.Path.Enabled": "true",
-    "Repository.Attach.Annotations": "true",
-    "Repository.Attach.JavaDocs": "true",
-    "Repository.Attach.Sources": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "reference.settings.project.maven.importing",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.importing&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="CorteDaTora" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CorteDaTora" />
@@ -125,6 +90,7 @@
       <workItem from="1697572602066" duration="53000" />
       <workItem from="1697572701497" duration="13000" />
       <workItem from="1697583899604" duration="7106000" />
+      <workItem from="1697591435299" duration="340000" />
     </task>
     <servers />
   </component>
