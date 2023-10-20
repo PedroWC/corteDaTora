@@ -8,5 +8,6 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" exported="" name="de.vandermeer.asciitable" level="project" />
+    <orderEntry type="library" exported="" name="knowm.xchart" level="project" />
   </component>
 </module>
